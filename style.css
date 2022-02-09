@@ -7,9 +7,17 @@
 h1 {
     font-size: 50px;
 }
+
 h1.home {
     text-align: center;
-    
+}
+
+h2 {
+    font-size: 36px;
+}
+
+p, ul, ol {
+    font-size: 22px;
 }
 
 .links {
@@ -23,4 +31,9 @@ img {
     width: 500px;
     height: auto;
 
+}
+
+#pico {
+    width: 400px;
+    height: auto;
 }
