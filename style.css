@@ -1,0 +1,26 @@
+*  {
+    background-color: #fdda79;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #c94a00;
+}
+
+h1 {
+    font-size: 50px;
+}
+h1.home {
+    text-align: center;
+    
+}
+
+.links {
+    text-align: center;
+    list-style-type: none;
+    font-size: 36px;
+    color: #cc890d;
+}
+
+img {
+    width: 500px;
+    height: auto;
+
+}
